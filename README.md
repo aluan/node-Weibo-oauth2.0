@@ -11,4 +11,4 @@ contact
 ============
 
 * qiang.luan@gmail.com
-* http://weibo.com/ALuan__
+* http://weibo.com/Aluan__
